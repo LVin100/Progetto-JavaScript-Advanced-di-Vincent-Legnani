@@ -1,3 +1,4 @@
+import styles from "../CSS/style.css"
 let arrNews= [];
 const afterLoadingNews = async() =>{
     try{
