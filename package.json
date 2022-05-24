@@ -1,0 +1,24 @@
+{
+  "name": "javascript-advanced-project",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "start": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LVin100/Progetto-JavaScript-Advanced-di-Vincent-Legnani.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LVin100/Progetto-JavaScript-Advanced-di-Vincent-Legnani/issues"
+  },
+  "homepage": "https://github.com/LVin100/Progetto-JavaScript-Advanced-di-Vincent-Legnani#readme",
+  "devDependencies": {
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
